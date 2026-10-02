@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-10-01T03:28:42.868702+00:00",
+  "updated_at": "2026-10-02T03:28:13.851581+00:00",
   "repositories": {
     "ludashi": {
       "repository": "StevenMXZ/Winlator-Ludashi",
-      "sha": "b8048ac8d3602fb98494801d26a6a8782fbee3fc",
-      "message": "VulkanRenderer: initialize cursor layout in active command recorder",
-      "date": "2026-09-24T13:49:12Z"
+      "sha": "212447d9d7fd8dcd3cb832b054c3fd73afebccf6",
+      "message": "Container: re-add VKD3D_SHADER_MODEL",
+      "date": "2026-10-01T20:35:08Z"
     },
     "cmod": {
       "repository": "coffincolors/winlator",
