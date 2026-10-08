@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-10-07T03:29:05.910651+00:00",
+  "updated_at": "2026-10-08T03:29:31.654507+00:00",
   "repositories": {
     "ludashi": {
       "repository": "StevenMXZ/Winlator-Ludashi",
-      "sha": "212447d9d7fd8dcd3cb832b054c3fd73afebccf6",
-      "message": "Container: re-add VKD3D_SHADER_MODEL",
-      "date": "2026-10-01T20:35:08Z"
+      "sha": "1042ba5d2444900068b14137bf93a4ed6689cdd4",
+      "message": "Wineinfo: allow higher version-code",
+      "date": "2026-10-07T21:29:07Z"
     },
     "cmod": {
       "repository": "coffincolors/winlator",
