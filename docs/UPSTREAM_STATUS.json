@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-11T10:53:45.035523+00:00",
+  "updated_at": "2026-11-12T11:01:40.542267+00:00",
   "repositories": {
     "ludashi": {
       "repository": "StevenMXZ/Winlator-Ludashi",
-      "sha": "1042ba5d2444900068b14137bf93a4ed6689cdd4",
-      "message": "Wineinfo: allow higher version-code",
-      "date": "2026-10-07T21:29:07Z"
+      "sha": "94a4009f599ad56b930f7380529e54362e372096",
+      "message": "CI: publish public 4.1 builds as signed APK artifacts",
+      "date": "2026-11-11T21:08:20Z"
     },
     "cmod": {
       "repository": "coffincolors/winlator",
