@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-14T10:22:02.670229+00:00",
+  "updated_at": "2026-11-15T10:49:28.488132+00:00",
   "repositories": {
     "ludashi": {
       "repository": "StevenMXZ/Winlator-Ludashi",
-      "sha": "94a4009f599ad56b930f7380529e54362e372096",
-      "message": "CI: publish public 4.1 builds as signed APK artifacts",
-      "date": "2026-11-11T21:08:20Z"
+      "sha": "1221321861333ab4fe787447de7465ae88567ad3",
+      "message": "README: DroidDeck and Bannerlator credits for KGSL and itch.io",
+      "date": "2026-11-15T08:08:41Z"
     },
     "cmod": {
       "repository": "coffincolors/winlator",
