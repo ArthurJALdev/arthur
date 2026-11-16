@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-15T10:49:28.488132+00:00",
+  "updated_at": "2026-11-16T11:11:54.003910+00:00",
   "repositories": {
     "ludashi": {
       "repository": "StevenMXZ/Winlator-Ludashi",
-      "sha": "1221321861333ab4fe787447de7465ae88567ad3",
-      "message": "README: DroidDeck and Bannerlator credits for KGSL and itch.io",
-      "date": "2026-11-15T08:08:41Z"
+      "sha": "527848f555c4349b26578e714acd4654b6dbd956",
+      "message": "Sidebar: preserve shortcut FPS limits and fix the CI test reference",
+      "date": "2026-11-15T15:46:14Z"
     },
     "cmod": {
       "repository": "coffincolors/winlator",
