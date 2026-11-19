@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-18T11:37:21.437915+00:00",
+  "updated_at": "2026-11-19T11:35:32.686925+00:00",
   "repositories": {
     "ludashi": {
       "repository": "StevenMXZ/Winlator-Ludashi",
-      "sha": "527848f555c4349b26578e714acd4654b6dbd956",
-      "message": "Sidebar: preserve shortcut FPS limits and fix the CI test reference",
-      "date": "2026-11-15T15:46:14Z"
+      "sha": "100be69645db260e8e03ec4f6a3675afbb232bb9",
+      "message": "Steam: Update JNI download signature test for shared depots",
+      "date": "2026-11-18T14:15:10Z"
     },
     "cmod": {
       "repository": "coffincolors/winlator",
