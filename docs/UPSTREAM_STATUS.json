@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-19T11:35:32.686925+00:00",
+  "updated_at": "2026-11-20T11:33:34.089465+00:00",
   "repositories": {
     "ludashi": {
       "repository": "StevenMXZ/Winlator-Ludashi",
-      "sha": "100be69645db260e8e03ec4f6a3675afbb232bb9",
-      "message": "Steam: Update JNI download signature test for shared depots",
-      "date": "2026-11-18T14:15:10Z"
+      "sha": "15d78dd636a78dd7ed21ccf4b40ec3323fa2f9aa",
+      "message": "Audio: configure ALSA output and PulseAudio latency per game",
+      "date": "2026-11-19T15:07:24Z"
     },
     "cmod": {
       "repository": "coffincolors/winlator",
