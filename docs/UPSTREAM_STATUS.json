@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-21T10:57:46.581507+00:00",
+  "updated_at": "2026-11-22T11:18:35.638141+00:00",
   "repositories": {
     "ludashi": {
       "repository": "StevenMXZ/Winlator-Ludashi",
-      "sha": "de12f25ed095703abb2838663a40ec97b038fe5b",
-      "message": "X++: Rewrite Native X11 Backend",
-      "date": "2026-11-21T07:59:52Z"
+      "sha": "5285b8bccdc9783313c1c4da43c4804e624d6c79",
+      "message": "itch.io: fix download progress and add pause, resume, and uninstall controls",
+      "date": "2026-11-22T02:53:24Z"
     },
     "cmod": {
       "repository": "coffincolors/winlator",
