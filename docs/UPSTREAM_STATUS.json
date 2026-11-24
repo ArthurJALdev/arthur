@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-23T12:55:23.476224+00:00",
+  "updated_at": "2026-11-24T13:39:21.293857+00:00",
   "repositories": {
     "ludashi": {
       "repository": "StevenMXZ/Winlator-Ludashi",
-      "sha": "5285b8bccdc9783313c1c4da43c4804e624d6c79",
-      "message": "itch.io: fix download progress and add pause, resume, and uninstall controls",
-      "date": "2026-11-22T02:53:24Z"
+      "sha": "f8f2804dd4d486cb9c237f8fbfcde68f7c13ee95",
+      "message": "InputControls: replace name filters with persistent device blocking",
+      "date": "2026-11-24T04:21:23Z"
     },
     "cmod": {
       "repository": "coffincolors/winlator",
