@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-25T12:49:33.645225+00:00",
+  "updated_at": "2026-11-26T12:26:57.879087+00:00",
   "repositories": {
     "ludashi": {
       "repository": "StevenMXZ/Winlator-Ludashi",
-      "sha": "f8f2804dd4d486cb9c237f8fbfcde68f7c13ee95",
-      "message": "InputControls: replace name filters with persistent device blocking",
-      "date": "2026-11-24T04:21:23Z"
+      "sha": "df053c1ef61d3558213fcffec247bba8a696390a",
+      "message": "FrameGeneration: Allow switching frame generation engines from the sidebar",
+      "date": "2026-11-26T02:52:24Z"
     },
     "cmod": {
       "repository": "coffincolors/winlator",
