@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-26T12:26:57.879087+00:00",
+  "updated_at": "2026-11-27T12:12:33.817936+00:00",
   "repositories": {
     "ludashi": {
       "repository": "StevenMXZ/Winlator-Ludashi",
-      "sha": "df053c1ef61d3558213fcffec247bba8a696390a",
-      "message": "FrameGeneration: Allow switching frame generation engines from the sidebar",
-      "date": "2026-11-26T02:52:24Z"
+      "sha": "1659f3d14efeca1b1570af9685470cb1ef56d166",
+      "message": "Freedreno: Use native OpenGL version instead of forcing 3.3",
+      "date": "2026-11-26T22:24:00Z"
     },
     "cmod": {
       "repository": "coffincolors/winlator",
