@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-27T12:12:33.817936+00:00",
+  "updated_at": "2026-11-28T11:41:25.213881+00:00",
   "repositories": {
     "ludashi": {
       "repository": "StevenMXZ/Winlator-Ludashi",
-      "sha": "1659f3d14efeca1b1570af9685470cb1ef56d166",
-      "message": "Freedreno: Use native OpenGL version instead of forcing 3.3",
-      "date": "2026-11-26T22:24:00Z"
+      "sha": "32e11e88860910ee850a82c0d3571b09b7e8a2fc",
+      "message": "Steam: Add support for installing owned DLCs",
+      "date": "2026-11-27T15:34:00Z"
     },
     "cmod": {
       "repository": "coffincolors/winlator",
